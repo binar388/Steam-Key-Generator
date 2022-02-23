@@ -18,13 +18,13 @@ const uint_fast8_t NUMERIC_CHARS_LENGTH = 10;
 bool isStringValid(const char* s);
 
 // Generates a key that matches pattern XXXXX-XXXXX-XXXXX
-void generateKeyOne(char* const emptyString);
+void generateKeyOne(char* const XXXXX-XXXXX-XXXXX);
 
 // Generates a key that matches pattern XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
-void generateKeyTwo(char* const emptyString);
+void generateKeyTwo(char* const XXXXX-XXXXX-XXXXX);
 
 // Generates a key that matches pattern XXXXXXXXXXXXXXX XX
-void generateKeyThree(char* const emptyString);
+void generateKeyThree(char* const XXXXX-XXXXX-XXXXX);
 
 
 int main(int argc, char const* argv[]) {
